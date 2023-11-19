@@ -1,0 +1,23 @@
+[
+    {
+        "categories": [
+            {
+                "id": 1,
+                "category": "Fashion"
+            },
+            {
+                "id": 2,
+                "category": "Electronics"
+            },
+            {
+                "id": 3,
+                "category": "Home and Kitchen"
+            },
+            {
+                "id": 4,
+                "category": "Today's Deals"
+            }
+            
+        ]
+    }
+]
